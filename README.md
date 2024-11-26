@@ -1,6 +1,6 @@
 # PhysBench (Archived) 
 
-### This code has already been migrated to the [new repository](https://github.com/KegangWangCCNU/PhysBench), but it still retains the existing code and benchmark results, and submissions of issues are welcome.
+### This framework has already been migrated to the [new repository](https://github.com/KegangWangCCNU/PhysBench), but it still retains the existing code and benchmark results, and submissions of issues are welcome.
 
 ![image](https://github.com/KegangWangCCNU/PICS/blob/main/PhysBench.gif)  
 ### Please use the [Tutorial/Noob Heart.ipynb](https://github.com/KegangWangCCNU/PhysBench/blob/main/Tutorial/Noob%20Heart.ipynb) to learn about this framework.  
