@@ -573,4 +573,3 @@ If you use PhysBench framework, PhysRecorder data collection tool, or the models
       primaryClass={cs.CV}
 }
 ```
-I am looking for a CS Ph.D. position, my research field is computer vision and remote physiological sensing, and I will graduate with a master's degree in June 2024. If anyone is interested, please send an email to kegangwang@mails.ccnu.edu.cn. 
